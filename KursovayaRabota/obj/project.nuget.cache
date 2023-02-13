@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y92hdx+bqZ306NlJ3sbElAYUt19txYh+FDWXpH1Sv/tTY41awaPjxbeNhSEx3bwMdsf0J0UEOsOKBFsFDpMo/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Никита\\Downloads\\FLASH\\ПОВТ-1-20 Тарасов Н.Д Курсовая\\KursovayaRabota\\KursovayaRabota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Никита\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
